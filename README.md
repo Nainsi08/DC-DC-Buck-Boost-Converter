@@ -34,9 +34,10 @@ V_o = -\frac{D}{1-D}V_{in}
 
 ## Observed Waveforms
 
+- PWM gate pulses
 - Diode current
 - Inductor voltage
-- PWM gate pulses
+- Inductor current 
 
 ## Tools Used
 
