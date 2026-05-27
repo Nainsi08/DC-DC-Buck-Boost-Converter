@@ -53,9 +53,3 @@ V_o = -\frac{D}{1-D}V_{in}
 - DC-DC Converter Design
 - Hardware Prototyping
 - MATLAB Simulation
-
-## Author
-
-Nainsi Kushwaha 
-[Electrical Engineering, Undergraduate,
-Indian Institute of Technology Indore] 
