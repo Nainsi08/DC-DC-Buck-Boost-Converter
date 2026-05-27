@@ -57,5 +57,5 @@ V_o = -\frac{D}{1-D}V_{in}
 ## Author
 
 Nainsi Kushwaha 
-Electrical Engineering Undergraduate
-Indian Institute of Technology Indore 
+[Electrical Engineering, Undergraduate,
+Indian Institute of Technology Indore] 
